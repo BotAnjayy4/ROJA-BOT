@@ -1,7 +1,7 @@
 {
-  "name": "Rixle Bot",
+  "name": "X2 Bot",
   "version": "1.8.1",
-  "description": "WhatsApp Bot Nodejs",
+  "description": "apa?",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -13,7 +13,7 @@
   "linkgc": {
   "gc1": "https://chat.whatsapp.com/D75oLHFNUXQCenRThcKUD1"
   },
-  "author": "FearTeam",
+  "author": "Saya",
   "bugs": {
     "url": "https://github.com/Rizxyu/RIXLE-BOT/issues"
   },
